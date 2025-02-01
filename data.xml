@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+
+<books>
+<book>
+<name>XML for begainners</name>
+<author> Ali </author>
+<year>2022</year>
+</book>
+<book>
+<name>Advanced XML</name>
+<author>Ahmed</author>
+<year>2023</year>
+</book>
+<name>Learn XSLT</name>
+<author>Sara</author>
+<year>2021</year>
+</book>
+</books>
